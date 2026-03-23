@@ -42,6 +42,3 @@ next-env.d.ts
 
 # Claude agents (local only)
 .claude/agents/requirements-tracker.md
-
-# MCP Shrimp Task Manager (local only)
-mcp-shrimp-task-manager/
